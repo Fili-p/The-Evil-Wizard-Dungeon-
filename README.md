@@ -81,7 +81,10 @@ WHILE LOOP game_on is equal to TRUE:
     ENDIF
 ENDWHILE
 ```
-
+## Python Code
+<a href="https://github.com/Fili-p/The-Evil-Wizard-Dungeon-/blob/main/The_Evil_Wizard_Dungeon.py">
+The Evil Wizard Dungeon
+</a>
 
 ---
 ## Learning Outcomes
