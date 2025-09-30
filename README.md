@@ -1,7 +1,7 @@
 # The Evil Wizard Dungeon
 
 ## Overview
-**The Evil Wizard Dungeon** is a Python-based text adventure game where players navigate a dungeon, and ultimately face the evil wizard. This project was created as part of IT-140 scripting class to practice Python fundamentals.
+**The Evil Wizard Dungeon** is a Python text-based adventure game where players navigate a dungeon, and ultimately face the evil wizard. This project was created as part of IT-140 scripting class to practice Python fundamentals.
 
 ## Features
 - Interactive command-line gameplay
