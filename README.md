@@ -17,6 +17,11 @@ This tale tells the story of a young man who sails out to sea in search of unkno
 ## Game Map
 <img width="937" height="862" alt="game_map" src="https://github.com/user-attachments/assets/0ef26189-ff8a-497a-907e-2f9bd111a292" />
 
+---
+
+Pseudocode:
+The pseudocode explains how the player moves between rooms and collects items. Black color font is used to write the code logic responsible for moving and updating the player's location. A <span style="color:blue">blue color font</span> was used for all of the code logic that describes how the player will collect items. The pseudocode consists of two main FUNCTIONS, one for changing the location of the player and one for collecting items. All game functions will run inside a WHILE LOOP. Certain conditions will be used to break the loop if the player wins or loses.
+
 
 
 
